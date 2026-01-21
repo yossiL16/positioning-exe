@@ -1,0 +1,17 @@
+/* * {
+    border: solid 4px;
+    height: 500px;
+    width: 920px;
+    position: relative;
+    top: 180px
+} */
+
+
+nav {
+    background-color: rgb(75, 52, 52);
+}
+
+nav a{
+    color: white;
+    margin-left: 15px;
+}
